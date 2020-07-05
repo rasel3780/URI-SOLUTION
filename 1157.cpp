@@ -2,8 +2,10 @@
  *    author:  rasel kibria
  *    created: 05.07.2020
 **/
+
 #include<bits/stdc++.h>
 using namespace std;
+
 int main()
 {
     int n, i;
@@ -16,7 +18,5 @@ int main()
             cout<<i<<"\n";
         }
     }
-
-
     return 0;
 }
